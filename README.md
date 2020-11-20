@@ -20,4 +20,3 @@ void manual(HttpServletResponse response) throws IOException {
         response.getWriter().println("Hello Isac! no EndPoint => manual");
 
     }
-    ```
